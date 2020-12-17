@@ -4,7 +4,7 @@ TAC-tic-toe is a noughts and crosses game.  The players are the computer operato
 
 ## Introduction 
 
-The game was created to test out offline development mechanisms for the Marconi TAC. To use the source on the TAC, it must be assembled to PMR format by the [TAC-XAssembler](https://github.com/beige-o-vision/TAC-XAssembler).
+The game was created to test out offline development mechanisms for the Marconi TAC. To use the source on the TAC, it must be assembled to PTM format by the [TAC-XAssembler](https://github.com/beige-o-vision/TAC-XAssembler).
 
 ## Files
 
