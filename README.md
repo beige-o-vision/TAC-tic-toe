@@ -8,13 +8,13 @@ The game was created to test out offline development mechanisms for the Marconi 
 
 ## Files
 
-- (Tac-tic-toe.py)[Tac-tic-toe.py]
+- [Tac-tic-toe.py](Tac-tic-toe.py)
 
 ## Documentation
 
-- (Users Guide)[UsersGuide.md]
-- (Copyright Statement)[COPYRIGHT]
-- (License)[LICENSE]
+- [Users Guide](UsersGuide.md)
+- [Copyright Statement](COPYRIGHT)
+- [License](LICENSE)
 
 ## Release History
 
